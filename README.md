@@ -58,8 +58,8 @@ Ingeniero Mecatrónico egresado de la UASLP con experiencia en desarrollo de sof
 
 ### 📬 Contacto & Redes
 
-- **Ubicación:** San Luis Potosí, México[cite: 1]
-- **Email:** [DiegolvanRC21@gmail.com](mailto:DiegolvanRC21@gmail.com)[cite: 1]
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-perfil) *(Asegúrate de agregar tu enlace)*
+- **Ubicación:** San Luis Potosí, México
+- **Email:** [DiegolvanRC21@gmail.com](mailto:DiegolvanRC21@gmail.com)
+
 
 ---
